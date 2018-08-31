@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  ["Method Man", "Raekwon", "Ol\' Dirty Bastard", "Ghostface"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array <<(RZA)
 end
 
 def add_element_to_start_of_array(array, element)
